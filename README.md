@@ -8,4 +8,4 @@ It now includes steps for GitHub.
 
 Added line for pull tutorial.
 
----Added line for push branch github tutorial---
+---Added line for push branch github tutoriaaaaal---
